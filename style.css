@@ -1,0 +1,100 @@
+.emoji{
+    position: relative;
+    margin-left: 8rem;
+    margin-top: 8rem;
+}
+.face{
+    width: 20rem;
+    height: 20rem;
+    position: absolute;
+    border-radius: 50%;
+    background-color: rgb(66, 63, 63);
+}
+.eye1{
+    width: 5rem;
+    height: 5rem;
+    position: absolute;
+    border-radius: 50%;
+    background-color: rgb(244, 242, 242);
+    margin-top: 4rem;
+    margin-left: 4rem;
+}
+.eyeball1{
+    width: 1.5rem;
+    height: 2rem;
+    position: absolute;
+    border-radius: 50%;
+    background-color: rgb(10, 10, 10);
+    margin-top: 1.4rem;
+    margin-left: 1.6rem;
+}
+.eye2{
+    width: 5rem;
+    height: 5rem;
+    position: absolute;
+    border-radius: 50%;
+    background-color: rgb(244, 242, 242);
+    margin-top: 4rem;
+    margin-left: 11.5rem;
+}
+.eyeball2{
+    width: 1.5rem;
+    height: 2rem;
+    position: absolute;
+    border-radius: 50%;
+    background-color: rgb(10, 10, 10);
+    margin-top: 1.3rem;
+    margin-left: 1.7rem;
+}
+.nose{
+    width: 8rem;
+    height: 5rem;
+    position: absolute;
+    border-radius: 40px 40px 40% 40%;
+    margin-top: 12rem;
+    margin-left: 6rem;
+    background-color: rgb(232, 187, 187);
+}
+.n1{
+    width: 2rem;
+    height: 2rem;
+    position: absolute;
+    border-radius: 40%;
+    margin-top: 1.4rem;
+    margin-left: 1.3rem;
+    background-color: rgb(239, 153, 68);
+
+}
+.n2{
+  
+        width: 2rem;
+        height: 2rem;
+        position: absolute;
+        border-radius: 40%;
+        margin-top: 1.4rem;
+        margin-left: 5rem;
+        background-color: rgb(239, 153, 68);
+}
+.ear1{
+    width: 8rem;
+    height: 5rem;
+    position: absolute;
+    border-radius: 50px 50px 50px 40%;
+    margin-top: 1rem;
+    margin-left:-3.9rem;
+    background-color: rgb(232, 187, 187);
+    rotate: 120deg;
+    z-index: -1;
+}
+.ear2{
+    width: 8rem;
+    height: 5rem;
+    position: absolute;
+    border-radius: 50px 50px 50px 40%;
+    margin-top: 1rem;
+    margin-left: 16rem;
+    background-color: rgb(232, 187, 187);
+    rotate: 240deg;
+    z-index: -1;
+}
+
